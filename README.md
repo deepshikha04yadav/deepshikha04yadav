@@ -1,6 +1,24 @@
 # 💫 About Me:
-I'm currently working on text to image generator.<br>I have designed a full stack project for candidate registration for sports quota using Django and MySQL.<br>And, I also have developed some other interesting projects you can check on my github account.<br>For any collaboration or suggestions, feel free to reach out.<br>Looking for opportunities as Python developer or full stack developer as a fresher 
+I work primarily with Python and build practical, end-to-end applications across web development and AI.
 
+Currently developing a Text-to-Image Generator, focused on generative models and deep learning workflows.
+
+Built a full-stack Candidate Registration System for Sports Quota using Django and MySQL, handling backend architecture, database design, authentication, and deployment.
+
+My work includes:
+* Backend development with Python & Django
+* Full-stack web applications
+* Machine Learning & AI projects
+* Database modeling and optimization
+* Deployment and production setup
+
+You can explore my repositories to see implementation details and project structure.
+
+# Opportunities
+
+Seeking entry-level roles as a Python Developer or Full-Stack Developer, where I can contribute to real-world systems and continue building scalable applications.
+
+Open to collaboration, feedback, and new opportunities.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deepshikha-yadav001) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ydeepshikha56@gmail.com) 
