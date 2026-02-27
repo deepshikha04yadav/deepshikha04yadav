@@ -16,7 +16,7 @@ You can explore my repositories to see implementation details and project struct
 
 # Opportunities
 
-Seeking entry-level roles as a Python Developer or Full-Stack Developer, where I can contribute to real-world systems and continue building scalable applications.
+Seeking entry-level roles as a Python Developer or AIML Developer, where I can contribute to real-world systems and continue building scalable applications.
 
 Open to collaboration, feedback, and new opportunities.
 
